@@ -42,8 +42,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['18295176783', 'jacksito', true],//
+['1260200000', '𝙭𝙧𝙗𝙤𝙩', true]
 ]
 global.mods = []
 global.prems = []
@@ -58,22 +58,22 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.author = 'AbiDev'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩'
-global.wm = '𝙭𝙧𝙗𝙤𝙩'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 jacksito'//nama group kalian
+global.author = 'jacksito'
+global.namebot = 'idy3'
+global.wm = 'idy3'
 global.media = 'https://telegra.ph/file/b9c38c34238271d29e86e.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/18295176783'
 global.alllink = `https://youtube.com`
 global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `idybot`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.stickauth = `© idybot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
