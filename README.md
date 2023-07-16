@@ -1,1 +1,1 @@
-malas kasih readme😁😁😁🗿🗿
+perezoso para dar readme 😁
